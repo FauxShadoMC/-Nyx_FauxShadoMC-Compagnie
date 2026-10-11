@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Communauté Nyx_FauxShadoMC", // required by Discord API, not shown in the client
+        name: "C👑 Nyx_FauxShadoMC┃Compagnie┃ NyxCraft.aternos.me:40730 ", // required by Discord API, not shown in the client
         state: "stalking",     // this is what people actually see
-        type: 3,               // Custom
+        type: 2,               // Custom
       },
     ],
   },
